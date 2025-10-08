@@ -1,5 +1,7 @@
 # EDA App Dashboard 
 
+![EDA Dashboard Screenshot](src/assets/dashboard.png)
+
 The **EDA App Dashboard** is a React + Vite project that provides **interactive Exploratory Data Analysis** on sales data.  
 It helps users visualize sales trends, compare brands, and filter data by multiple parameters.
 
